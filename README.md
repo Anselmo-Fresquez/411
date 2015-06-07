@@ -1,20 +1,4 @@
-///////////////////////////////////////////////////////////////////////////
-//
-//
-//              $$\   $$\         $$\         $$\         
-//              $$ |  $$ |      $$$$ |      $$$$ |        
-//              $$ |  $$ |      \_$$ |      \_$$ |        
-//              $$$$$$$$ |$$$$$$\ $$ |$$$$$$\ $$ |        
-//              \_____$$ |\______|$$ |\______|$$ |        
-//                    $$ |        $$ |        $$ |        
-//                    $$ |      $$$$$$\     $$$$$$\       
-//                    \__|      \______|    \______|    
-//
-//                        Directory Assistance
-//                                 by
-//                        Anselmo Fresquez III
-//
-///////////////////////////////////////////////////////////////////////////
+#411 - Directory Assistance by Anselmo Fresquez III
 
 /// 1) Put 411-ROOT.php  into the root folder of your site. This has nothing to do
 ///    with your actual document root, this can be wherever you want. 
